@@ -14,6 +14,7 @@ export default class Movies extends Component {
             <div className='row'>
                 <div className='col-3'>
                  <h1>hello</h1>
+                 <h2>hello2</h2>
                 </div>
                 <div className='col-9'>
                 <table className="table">
